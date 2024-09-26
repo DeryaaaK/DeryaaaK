@@ -1,4 +1,4 @@
-## Hi, I'm Derya. 👋
+# Hi, I'm Derya. 👋
 
 - 🔭 I’m currently working on Javascript, Frontend and Backend technologies.
 - 🌱 I’m currently learning React and I'm still improving myself.
